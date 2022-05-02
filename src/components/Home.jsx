@@ -10,7 +10,7 @@ const Home = () => {
         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
           <blockquote>
             <p className='text-5xl text-right font-bold'>Hello there, my name is Jose Manuel!</p>
-            <p className='text-3xl pt-8 text-[#fbeed0]'> Im an enthusiast full-stack developer based in Spain, willing to expand my knowledge and and put into practice my skills.</p>
+            <p className='text-3xl pt-8 text-[#fbeed0]'> Im an enthusiast full-stack developer based in Spain, willing to expand my knowledge and put into practice my skills.</p>
           </blockquote>
         </div>
         <button className='p-3 bg-gradient-to-r from-indigo-500 to-pink-600 text-2xl font-bold text-gray-200 hover:text-yellow-200 duration-300' type="submit">
